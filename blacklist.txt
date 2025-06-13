@@ -237,4 +237,6 @@ NAME: Starspawn3
 NAME: Luni
 NAME: i'm.sick.of.the.trans.freaks
 NAME: THE_DUDE-98DADF62444
+NAME: Turoshi
+NAME: GabrielMendezJunior
 L!ListEnd
